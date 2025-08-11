@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🧠 Estudante de Sistemas de Informação na Uninter <br/>
+ 🧠 Estudante de Sistemas de Informação no IFMG-OB <br/>
  🚀Estudante na Rocketseat <br/>
 
  
